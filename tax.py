@@ -26,6 +26,7 @@ if average_distances > threshold and max_distances > 18:
 else:
   print("status:Below standard")
   #LISTS
+print("LISTS-TAXI TRIP")
 print("original trip:",trip_distances)
 #Add new trip
 trip_distances.append(25)
