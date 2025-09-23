@@ -42,6 +42,7 @@ import array
 trip_distances_array=array.array('i',[12,8,15,20])
 print("trip_distances:",trip_distances_array )
 #DICTIONARIES
+print("DICTIONARIES_TAXI TRIP")
 trip_distances=[{"id":1,"name":"tripA","value":12},
 {"id":2,"name":"tripB","value":8},
 {"id":3,"name":"tripC","value":15},
