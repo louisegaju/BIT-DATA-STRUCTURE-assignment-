@@ -18,7 +18,6 @@ stack.pop()
 stack.pop()
 stack.append("5")
 print("stack top:",stack[-1])
-print("stack is unfair in service line(latest gets served first)")
 print("QUEUE Question(FIFO)")
 #RRA 5 clients queue
 print("RRA 5 Clients queue")
